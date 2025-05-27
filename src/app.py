@@ -88,32 +88,8 @@ activities = {
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
         "participants": ["leo@mergington.edu", "nora@mergington.edu"]
-    },
-    # Intellectual activities
-    "Math Olympiad": {
-        "description": "Prepare for math competitions and solve challenging problems",
-        "schedule": "Fridays, 2:00 PM - 3:30 PM",
-        "max_participants": 10,
-        "participants": ["ethan@mergington.edu", "grace@mergington.edu"]
-    },
-    "Science Club": {
-        "description": "Conduct experiments and explore scientific concepts",
-        "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
-        "max_participants": 14,
-        "participants": ["harper@mergington.edu", "logan@mergington.edu"]
-    },
-    "Debate Team": {
-        "description": "Develop public speaking and argumentation skills",
-        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 15,
-        "participants": ["sebastian@mergington.edu", "ella@mergington.edu"]
-    },
-    "Robotics Club": {
-        "description": "Design, build, and program robots for competitions",
-        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
-        "max_participants": 12,
-        "participants": ["mason@mergington.edu", "lily@mergington.edu"]
     }
+    
 }
 
 
